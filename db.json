@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Wayne",
+      "age": "45",
+      "address": "Jln. Tri Utomo",
+      "phone": "083566225511"
+    },
+    {
+      "id": 2,
+      "name": "Awir",
+      "age": "66",
+      "address": "Jln. Sumut 444",
+      "phone": "084983220014"
+    },
+    {
+      "id": 3,
+      "name": "Rizki",
+      "age": "35",
+      "address": "Jln. Gatot Riwuh",
+      "phone": "085666725557"
+    }
+  ]
+}
